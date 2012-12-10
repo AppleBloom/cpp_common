@@ -23,4 +23,4 @@ Is supposed to be included in every C++ source file of a project that uses it. H
 
 # copyright
 
-Copyright (c) 2012 [AppleBloom](mailto:love.and.toleration@gmail.com). See [LICENSE](./LICENSE.txt) for details.
+Copyright (c) 2012 [AppleBloom](mailto:love.and.toleration@gmail.com). See `LICENSE.txt` for details.
