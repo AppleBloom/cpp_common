@@ -1,5 +1,6 @@
 Copyright (c) 2012 AppleBloom<love.and.toleration@gmail.com>
 
  The contents of this repository are free software. It comes without any
-warranty, to the extent permitted by applicable law. You can redistribute it
-and/or modify it IN ANY WAY YOU WANT TO.
+warranties or conditions, either expressed or implied, to the extent permitted
+by applicable law. You can redistribute it and/or modify it
+IN ANY WAY YOU WANT TO.
